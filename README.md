@@ -1,0 +1,2 @@
+# FlashIt
+Flash the characters
