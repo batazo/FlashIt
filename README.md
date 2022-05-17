@@ -1,5 +1,5 @@
-# FlashIt
-Flash the characters JavaScript
+# FlashIt - FlashThese
+Functions to Flash the characters - JavaScript
 
 ## Usage
 ### FlashIT
