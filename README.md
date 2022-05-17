@@ -32,5 +32,6 @@ FlashThese(options)
 ```
 
 ## DEMOS
-FlashIt: https://codepen.io/bzozoo/pen/oNEZGwX
-FlashThese: https://codepen.io/bzozoo/pen/VwQprpM?editors=0010
+- FlashIt: https://codepen.io/bzozoo/pen/oNEZGwX
+
+- FlashThese: https://codepen.io/bzozoo/pen/VwQprpM?editors=0010
