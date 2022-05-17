@@ -1,4 +1,4 @@
-function FlashIt({ element, color, speed, edgeLeft, edgeRight, charSelector }) {
+export default function FlashIt({ element, color, speed, edgeLeft, edgeRight, charSelector }) {
 	const characterSelector = charSelector || "flashed";
 	const string = document.querySelector(element).innerText;
 	const split = string.split("\n").map((spitBr) => {
@@ -47,6 +47,6 @@ function FlashIt({ element, color, speed, edgeLeft, edgeRight, charSelector }) {
 	loop(0, "F");
 }
 
-function FlashThese(options){
+export function FlashThese(options){
 	options.map((option)=>FlashIt(option))	
 }
