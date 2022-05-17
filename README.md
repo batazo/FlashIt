@@ -1,6 +1,10 @@
 # FlashIt - FlashThese
 Functions to Flash the characters - JavaScript
 
+## Install
+Add the script to HTML file to head section
+or import the FlashIt or FlashThese functions from FlashIt.js file as module to your main JS file
+
 ## Usage
 ### FlashIT
 ```
